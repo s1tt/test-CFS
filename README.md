@@ -27,24 +27,24 @@
 
 <h2>🚀 ДЕМО</h2>
 
-[https://gh-explorer-azure.vercel.app/](https://gh-explorer-azure.vercel.app/)
+[https://test-cfs.vercel.app/](https://test-cfs.vercel.app/)
 
 <h2>Скриншот проекта:</h2>
 
-<img src="https://github.com/s1tt/gh-explorer/assets/40265221/c6606f6a-4e7c-40e7-bf1b-1f0f5b536600" alt="project-screenshot" width="500" height="250/">
+<img src="https://github.com/s1tt/test-CFS/assets/40265221/c89849e9-742f-40bb-9221-b122b1d88a5b" alt="project-screenshot" width="500" height="250/">
 
 <h2>🛠️ Установка и Запуск:</h2>
 
 <p>1. Клонировать репозиторий:</p>
 
 ```
-git clone https://github.com/s1tt/gh-explorer.git
+git clone https://github.com/s1tt/test-CFS.git
 ```
 
 <p>2. Перейти в директорию проекта:</p>
 
 ```
-cd gh-explorer
+cd test-CFS
 ```
 
 <p>3. Установить зависимости:</p>
